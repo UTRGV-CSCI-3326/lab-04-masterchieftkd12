@@ -1,4 +1,4 @@
-class Main {
+class Main { 
     public static void main(String[] args) {
         // Convert the string strFloat into a float.
 String strFloat = "374.25";
