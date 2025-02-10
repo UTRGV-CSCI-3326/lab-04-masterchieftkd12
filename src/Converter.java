@@ -4,7 +4,7 @@ class Main {
 String strFloat = "374.25";
 float from_strFloat = Float.parseFloat(strFloat);
 
-// Convert the string strInt into an integer.
+// Convert the string strInt into an integer.  
 String strInt = "1250";
 int from_strInt = Integer.parseInt(strInt);
 
